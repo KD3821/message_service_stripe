@@ -57,11 +57,15 @@
 
 <p align="center"><img src="https://github.com/kd3821/message_service_stripe/blob/main/img/add_campaign.png?raw=true"></p>
 
+<p align="center"><img src="https://github.com/kd3821/message_service_stripe/blob/main/img/confirm_start.png?raw=true"></p>
+
 <p align="center"><img src="https://github.com/kd3821/message_service_stripe/blob/main/img/campaign_list.png?raw=true"></p>
 
 <p align="center"><img src="https://github.com/kd3821/message_service_stripe/blob/main/img/email_service.png?raw=true"></p>
 
 <p align="center"><img src="https://github.com/kd3821/message_service_stripe/blob/main/img/email_service_done.png?raw=true"></p>
+
+<p align="center"><img src="https://github.com/kd3821/message_service_stripe/blob/main/img/pay_invoice.png?raw=true"></p>
 
 <p align="center"><img src="https://github.com/kd3821/message_service_stripe/blob/main/img/stripe_checkout.png?raw=true"></p>
 
